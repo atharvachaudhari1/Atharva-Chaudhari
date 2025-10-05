@@ -34,7 +34,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvachaudhari&show_icons=true&theme=tokyonight)  
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChauDhari&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvachaudhari&layout=compact&theme=tokyonight)
 
 ---
